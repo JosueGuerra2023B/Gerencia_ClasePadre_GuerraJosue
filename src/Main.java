@@ -18,7 +18,7 @@ public class Main {
         System.out.println("   /--- Sistema de figuras ---/ \n/ (Areas/ perimetros / Apotemas ) /");
         System.out.println("----------------------------------------------------");
         System.out.println("Circulos");
-        miFigura2.setNombre("Pileta del sur");
+        miFigura2.setNombre("wola);
         System.out.println(miFigura2.getNombre());
         System.out.println("La pileta del sur tendra un radio de: ");
         miFigura2.setRadio(4.0);
